@@ -26,7 +26,7 @@ license     : by-nc-sa
 
 Análisis y Diseño de experimentos
 
-> Biblioteca UdeA: 658.5/G984
+Biblioteca UdeA: 658.5/G984
  
 </div>
 
@@ -46,8 +46,9 @@ Análisis y Diseño de experimentos
 <div class="columns-2">
 <img src="./figure/EE.jpg" title="plot of chunk unnamed-chunk-4" alt="plot of chunk unnamed-chunk-4" style="display: block; margin: auto auto auto 0;" />
 
-    +  **Experimental design and data analysis for biologists**
-    + Biblioteca UdeA: 574.015195/Q7
+      __Experimental design and data analysis for biologists__
+      
+     Biblioteca UdeA: 574.015195/Q7
  
 </div>
 
@@ -64,7 +65,7 @@ __3 Examenes parciales: 65%__
 Roses are <span style="color:red">red</span>, 
 violets are <span style="color:blue">blue</span>.
 
----- 
+
  
  __Seguimiento: 35%__
  
