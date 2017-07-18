@@ -360,11 +360,15 @@ pre code {
 
 .title-slide hgroup > h1{
  font-family: 'Oswald', 'Helvetica', sanserif; 
+ background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain; 
+  width: 100%;
+  height: 300px;
 }
 
 .title-slide hgroup > h1, 
 .title-slide hgroup > h2 {
   color: #535E43 ;  /* ; #EF5150*/
 }
-
 
