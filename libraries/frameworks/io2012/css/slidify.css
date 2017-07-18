@@ -33,6 +33,8 @@
 
 
 /* Styles for Title Slide */
+
+
 .title-slide hgroup > h1{
   font-family: 'Oswald', sans-serif;
 }
@@ -352,7 +354,7 @@ pre code {
 }
 
 .title-slide {
-  background-color: #CBE7A5; /* #EDE0CF; ; #CA9F9D*/
+  background-color: white; /* #EDE0CF; ; #CA9F9D; #CBE7A5;*/
   /* background-image:url(http://goo.gl/EpXln); */
 }
 
